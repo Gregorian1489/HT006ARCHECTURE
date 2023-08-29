@@ -3,3 +3,4 @@
 > Домашнее задание: Разработать полную ERD домена в https://www.dbdesigner.net/.
 
 > Результат:
+> ![Final.png](Final.png)
